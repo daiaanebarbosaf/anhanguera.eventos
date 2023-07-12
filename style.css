@@ -62,7 +62,7 @@ img {
 }
 
 section {
-    padding-block: 5rem;
+    padding-block: 15rem;
 }
 
 section header h4{
@@ -327,6 +327,7 @@ body.menu-expanded button path {
     font-size: 1.4rem;
     color: var(--primary-color);
     margin-bottom: 1.6rem;
+    margin-top: 2rem;
 }
 
 #home h1{
