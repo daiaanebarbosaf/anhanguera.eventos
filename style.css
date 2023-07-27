@@ -446,6 +446,7 @@ body.menu-expanded button path {
 
 #about img {
     margin-bottom: 5rem;
+
 }
 
 /*============CONGIGURAÇÕES DO CONTACT============*/
@@ -838,6 +839,12 @@ footer a {
 
         margin-top: 6rem;
     }
+
+    
+    #about img {
+    width: 20%;
+    }
+
 
     /*==========CONFIGURAÇÕES DO CONTACT==========*/
 
